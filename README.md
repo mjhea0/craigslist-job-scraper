@@ -6,7 +6,7 @@ This script searches SF BAY AREA jobs based on your search criteria and sends au
 
 1. bundle install
 2. optional: update city (line 33), email message (line 70)
-3. ruby craigs.rb
+3. ruby get_jobs.rb
 
 <3
 
